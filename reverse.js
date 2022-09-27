@@ -1,0 +1,1 @@
+exports.reverse = (value) => [...value].reverse().join('');
